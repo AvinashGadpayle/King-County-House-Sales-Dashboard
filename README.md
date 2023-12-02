@@ -18,7 +18,8 @@ Data Source: King County House Sales Dataset
 Clone the repository.
 Open the Tableau workbook (KingCountyHouseSalesDashboard.twb).
 Customize filters and explore specific aspects of the dataset.
-📷 Screenshots: See previews of key visualizations.
+
+
 
 # Contribute:
 
